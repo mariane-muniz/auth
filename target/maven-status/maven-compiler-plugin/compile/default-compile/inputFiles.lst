@@ -1,0 +1,12 @@
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/domain/Authorities.java
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/repository/AuthorityRepository.java
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/config/ResourceServerConfiguration.java
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/DeliveryAuthServerApplication.java
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/repository/UserRepository.java
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/controller/AuthController.java
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/config/CorsFilterConfiguration.java
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/config/WebSecurityConfig.java
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/config/AuthorizationServerConfiguration.java
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/service/UserDetailsService.java
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/model/Authority.java
+/home/mariane/Projects/eureka/auth/src/main/java/com/coderef/delivery/model/User.java
